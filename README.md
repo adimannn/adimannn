@@ -1,5 +1,5 @@
 Hi I'm adimannn
-Mainly focusing on Python Automations, Arduino, ESP32,
+Mainly focusing on C#, SQL, Python, Arduino
 
 <!---
 adimannn/adimannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
